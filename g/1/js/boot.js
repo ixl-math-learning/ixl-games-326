@@ -115,7 +115,7 @@
 				loadFont('assets/font/titan-one.css', 'Titan One'),
 				window.sharedAppData.config.leaderboards && loadScript('js/leaderboard.js'),
 				window.sharedAppData.config.vconsole &&
-					loadScript('https://cdnjs.cloudflare.com/ajax/libs/vConsole/3.3.0/vconsole.min.js'),
+					loadScript('https://cdn.jsdelivr.net/gh/ixl-math-learning/ixl-mirror-134/m/cdnjs/vConsole/3.3.0/vconsole.min.js'),
 				loadScript('js/inflate.min.js'),
 				loadScript('js/vendor.js'),
 				loadScript('js/main.js');
